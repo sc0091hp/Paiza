@@ -1,4 +1,0 @@
-# favorite food
-
-orange
-apple
